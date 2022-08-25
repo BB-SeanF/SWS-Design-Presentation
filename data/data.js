@@ -53,7 +53,7 @@ export const projectFrames = [
         img:"/images/hp1.jpg",
         height:"3758px",
         width: "1600px",
-        title: "Bishop Manogue's New Homepage",
+        title: "Westminster's New Homepage",
         frameGroup:1,
         navGraphic: false,
         navGraphicToChange: false,
